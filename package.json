@@ -1,0 +1,26 @@
+{
+  "name": "ts-app",
+  "version": "1.0.0",
+  "description": "Proyecto de TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crissmejias/typescript_2.git"
+  },
+  "author": "Cristhian Mejias Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crissmejias/typescript_2/issues"
+  },
+  "homepage": "https://github.com/crissmejias/typescript_2#readme",
+  "dependencies": {
+    "@capacitor/camera": "^4.1.4",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
